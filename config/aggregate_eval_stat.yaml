@@ -1,0 +1,5 @@
+retain_result: data/ft_epoch5_lr2e-05_phi_retain90_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
+ckpt_result: data/ft_epoch5_lr2e-05_phi_retain90_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
+method_name: grad_diff
+submitted_by: someone
+save_file: aggr_result.csv
