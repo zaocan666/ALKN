@@ -7,7 +7,7 @@ LoRA:
 
 lr: 1e-5
 split: forget01
-data_path: /home/urkax/LLM_data/TOFU/dataset
+data_path: /data
 batch_size: 16
 gradient_accumulation_steps: 4
 num_epochs: 5

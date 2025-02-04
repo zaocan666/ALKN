@@ -5,7 +5,7 @@ LoRA:
   alpha: 32
   dropout: 0.05
 
-data_path: /home/cuisen/users/urkax/LLM_data/TOFU/dataset
+data_path: /data
 split: full
 batch_size: 16
 gradient_accumulation_steps: 1
